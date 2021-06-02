@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:todo_app/db/database_helper.dart';
 import 'package:todo_app/models/task_model.dart';
-import 'package:todo_app/utilities/notification_helper.dart';
+import 'package:todo_app/notification/notification_helper.dart';
 import 'package:todo_app/utilities/utility.dart';
 import 'package:todo_app/screens/task_list/components/task_list.dart';
 import 'package:todo_app/utilities/constant.dart';
